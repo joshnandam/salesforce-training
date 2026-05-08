@@ -1,0 +1,50 @@
+Install Apps and Packages in Your Trailhead Playground
+
+
+App:-  You’re probably comfortable with the idea of app stores. Whether you’re downloading apps on your phone, tablet, computer, or other device, you have to download and install apps to make the most of your technology. Salesforce is the same way.
+
+Salesforce has a community of partners that use the flexibility of the Salesforce platform to build amazing apps that anyone can use. These apps are available for installation on AppExchange (some for free, some at a cost).
+
+
+Packages:-  A package is a set of pre-created configurations and developments. At various points in your Trailhead learning journey, you may need to install a package in order to complete a challenge or work through the steps in a badge.
+
+Packages allow us to load sample data, custom objects and fields, or just about anything else into your Trailhead Playground.
+
+
+Your Playground Has the Playground Starter App
+
+
+1.Find the package ID starting with 04tCopy and copy it to your clipboard.
+2.Click the Install a Package tab.
+3.Paste the package ID into the field.
+4.Click Install.
+
+5.Select Install for Admins Only, then click Install.
+
+
+image05.png
+6.If you see a pop-up asking you to approve third-party access, select Yes, grant access to these third-party websites and click Continue.
+
+
+image06.png
+
+
+
+
+Your Playground Doesn’t Have the Playground Starter App
+
+
+
+If your playground doesn’t have the Playground Starter app, never fear. Follow these steps to install a package. To do this, you’ll need your username and password for your Trailhead Playground, as well as the package installation link. If you don’t have your username and password on hand, go to the previous unit and get them.  
+
+
+See What Was Installed
+Want to see what was included in the app or package you installed?
+
+1.In your Trailhead Playground, click   and select Setup.
+
+2.From Setup, enter Installed PackagesCopy in the Quick Find box and select Installed Packages.
+
+3.Click the app or package from the list.
+
+4.Click View Components.
