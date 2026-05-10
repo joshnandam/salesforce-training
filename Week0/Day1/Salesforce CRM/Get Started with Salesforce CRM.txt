@@ -1,0 +1,43 @@
+Get Started with Salesforce CRM
+
+
+What Is Salesforce?
+
+Salesforce is your customer success platform, designed to help you sell, service, market, analyze, and connect with your customers.
+
+Salesforce has everything you need to run your business from anywhere. Using standard products and features, you can manage relationships with prospects and customers, collaborate and engage with employees and partners, and store your data securely in the cloud.
+
+
+But standard products and features are only the beginning. Our platform allows you to customize and personalize the experience for your customers, partners, and employees and easily extend beyond out-of-the-box functionality.
+
+
+What Is CRM?
+CRM stands for Customer Relationship Management
+
+
+This technology allows you to manage relationships with your customers and prospects and track data related to all of your interactions. It also helps teams collaborate, both internally and externally, gather insights from social media, track important metrics, and communicate via email, phone, social, and other channels.
+
+
+Salesforce organizes your data into objects and records. You can think of objects like a tab on a spreadsheet, and a record like a single row of data.
+You can access objects from the navigation bar. Select any record to drill into a specific account, contact, opportunity, or any other record in Salesforce.
+
+
+Salesforce Standard and Custom Objects
+
+Standard Objects
+1.Accounts – Companies or customers you do business with.
+2.Contacts – People associated with an account.
+3.Leads – Potential customers who are not yet qualified.
+4.Opportunities – Qualified leads with a possible sales deal.
+These objects are connected, helping businesses manage customer data efficiently and view relationships between records.
+
+Custom Objects
+Salesforce also provides a platform to create custom objects based on business needs.
+Example: A company can create a custom object called Projects to manage work requests from sales managers.
+
+Using custom objects, Salesforce allows:
+
+1.Storing custom business data
+2.Automating processes and email notifications
+3.Creating reports and dashboards
+4.This flexibility makes Salesforce more powerful than traditional spreadsheets.

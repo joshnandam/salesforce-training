@@ -1,0 +1,64 @@
+Daily Dose of Salesforce CRM
+
+
+Working with Sales App Features in Salesforce
+Learning Objectives
+After completing this unit, users can:
+1.Understand common Sales app features
+2.Create accounts, contacts, opportunities, and reports
+3.Find records using Salesforce search
+
+Seller Home
+Seller Home is the main dashboard for sales representatives. It helps users:
+1.View deals in progress
+2.Track goals and performance
+3.Check tasks and events
+4.Monitor recent contacts and leads
+
+Accounts and Contacts
+1.Accounts represent companies or customers.
+2.Contacts represent people associated with accounts.
+Features:
+1.Quick access to customer details
+2.Duplicate matching for clean data
+3.Activity tracking for better communication
+
+Opportunity Workspace
+An Opportunity represents a qualified sales deal.
+Features:
+1.Track sales stages
+2.Update deal information quickly
+3.Log calls, tasks, and emails
+4.View important details in one workspace
+
+List Views
+List Views help users organize and filter records.
+Benefits:
+1.Create custom filtered lists
+2.Search records quickly
+3.View data using charts and visualizations
+
+Opportunity Kanban
+Kanban view displays opportunities by sales stage.
+Features:
+1.Drag-and-drop deals between stages
+2.Visualize sales pipeline
+3.Get alerts for important deals
+
+Reports and Dashboards
+Reports and Dashboards help analyze business data.
+Benefits:
+1.Create filtered reports
+2.Group and summarize data
+3.Build visual dashboards and charts
+4.Track sales performance easily
+
+Search for Records
+The global search box helps users quickly find records.
+Features:
+1.Smart search suggestions
+2.Search across all objects
+3.Filter and sort results
+4.Access recently viewed records
+Conclusion :
+Salesforce Sales App provides powerful tools for managing customers, opportunities, reports, and business activities efficiently. It improves productivity, organization, and sales performance.

@@ -1,0 +1,43 @@
+learn Navigate Around
+
+
+Lightning Experience
+What is Lightning Experience?
+
+Lightning Experience is Salesforce’s modern and user-friendly interface designed to help sales teams work faster and close deals efficiently. It is available on both desktop and mobile through the Salesforce app.
+
+Features of Lightning Experience
+1.Fast, interactive, and visually appealing interface
+2.Personalized alerts and productivity tools
+3.Easy access to sales data and activities
+4.Supports mobile-friendly working
+5.Helps sales reps focus on important deals and tasks
+
+
+
+App Launcher
+The App Launcher helps users quickly switch between apps and items.
+It allows users to:
+
+1.Open different Salesforce apps
+2.Search apps and records
+3.Access connected apps like Gmail or Office 365
+4.Customize and reorder apps
+
+
+
+Navigation Bar
+The Navigation Bar provides quick access to objects and records within an app.
+Users can:
+
+1.Open recent records and lists
+2.Create new records quickly
+3.Add frequently used tabs
+4.Reorder or customize tabs
+
+Benefits of Lightning Experience
+1.Improves productivity
+2.Simplifies navigation
+3.Provides personalized user experience
+4.Enhances collaboration and sales management
+5.Makes Salesforce easier and faster to use
